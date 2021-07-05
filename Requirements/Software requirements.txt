@@ -1,5 +1,0 @@
-SOFTWARE REQUIREMENTS :
-
-      1. Dev - C++
-      2. Windows Operating System
-      3. Decent processor
